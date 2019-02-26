@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package laskuri;
-
+//muokattu githubissa
 /**
  *
  * @author antti

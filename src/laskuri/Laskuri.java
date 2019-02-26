@@ -32,6 +32,9 @@ public class Laskuri{
   	public void nollaa(){
     		this.tapahtumia = 0;
   	}
+        public void poista(){
+    		this.tapahtumia = this.tapahtumia - 1; 
+  	}
 	public String toString(){
 		return "Laskurin lukema on " + this.tapahtumia;
 	}
